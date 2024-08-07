@@ -1,6 +1,6 @@
 venv
+data
 .env
-*.csv
 
 
 1_korrelacio_elemzes
